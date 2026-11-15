@@ -1,3 +1,29 @@
+# agent-zero
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Agent Zero AI framework
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+Agent Zero AI 智能体框架。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <img src="docs/res/a0-vector-graphics/horizontal_banner.svg" alt="Agent Zero Banner" width="100%"/>
